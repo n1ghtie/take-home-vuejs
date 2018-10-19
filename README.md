@@ -1,4 +1,4 @@
-#xDesign Take Home (Vuejs)
+# xDesign Take Home (Vuejs)
 
 for backend (api) of this repo download [Backend](https://github.com/n1ghtie/take-home)
 
