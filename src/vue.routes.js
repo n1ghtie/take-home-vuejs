@@ -8,10 +8,9 @@ import NotFoundComponent from './components/not-found/not-found.vue'
 
 /* 
  *** TODO routes:
- **  Auth: logout, allUsers, userVehicleDetails
- **  Other: login, 404
+ **  Auth: logout, allUsers, userVehicleDetails, getApiToken
+ **  Other: login
 */
-
 
 Vue.use(VueRouter);
 Vue.use(Meta);
