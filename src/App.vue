@@ -17,3 +17,12 @@ export default {
   name: 'app'
 }
 </script>
+
+<style lang="scss">
+  nav {
+    li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+  }
+</style>

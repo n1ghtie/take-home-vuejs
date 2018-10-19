@@ -1,3 +1,6 @@
 export default {
-	name: 'home'
+  name: 'about',
+  metaInfo: {
+    title: 'About',
+  }
 }
